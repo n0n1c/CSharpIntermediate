@@ -1,0 +1,7 @@
+C:\Users\nonic\source\repos\Classes.Programs\Classes.Programs\bin\Debug\Classes.Programs.exe.config
+C:\Users\nonic\source\repos\Classes.Programs\Classes.Programs\bin\Debug\Classes.Programs.exe
+C:\Users\nonic\source\repos\Classes.Programs\Classes.Programs\bin\Debug\Classes.Programs.pdb
+C:\Users\nonic\source\repos\Classes.Programs\Classes.Programs\obj\Debug\Classes.Programs.csprojResolveAssemblyReference.cache
+C:\Users\nonic\source\repos\Classes.Programs\Classes.Programs\obj\Debug\Classes.Programs.csproj.CoreCompileInputs.cache
+C:\Users\nonic\source\repos\Classes.Programs\Classes.Programs\obj\Debug\Classes.Programs.exe
+C:\Users\nonic\source\repos\Classes.Programs\Classes.Programs\obj\Debug\Classes.Programs.pdb
