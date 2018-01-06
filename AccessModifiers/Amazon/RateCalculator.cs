@@ -2,7 +2,7 @@
 {
     public class RateCalculator
     {
-        public int Calculate(Customer customer)
+        internal int Calculate(Customer customer)
         {
             return 0;
         }

@@ -48,5 +48,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Amazon\Amazon.csproj">
+      <Project>{5218C06A-F77A-4FEF-91E6-5DDAC7DB9FB7}</Project>
+      <Name>Amazon</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
